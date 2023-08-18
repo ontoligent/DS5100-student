@@ -1,1 +1,1 @@
-# DS5100-2022-08-O-student
+# DS5100-student
